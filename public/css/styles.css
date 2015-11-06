@@ -1,0 +1,57 @@
+html {
+}
+
+body {
+  background: lightblue;
+}
+
+.toggle {
+  color: gray;
+  position: relative;
+}
+
+.choices {
+  color: white;
+  font-weight: bold;
+}
+
+#container {
+  width: 80%;
+  display: block;
+  margin-top: 6em;
+}
+
+#interface {
+  margin-top: 1em;
+}
+
+#continue {
+  color: white;
+  vertical-align: middle;
+  text-align: center;
+  float:right;
+}
+
+#grade {
+  color: white;
+  vertical-align: middle;
+  text-align: center;
+  float:right;
+}
+
+h1 {
+  font-size: 5em;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.5em;
+  text-align: center;
+  color: black;
+}

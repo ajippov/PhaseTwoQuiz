@@ -1,0 +1,16 @@
+{
+  "name": "PhaseTwo",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "^1.13.3",
+    "bower": "^1.5.2",
+    "ejs": "^1.0.0",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "morgan": "^1.6.1"
+  }
+}
